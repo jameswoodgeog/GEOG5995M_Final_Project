@@ -7,6 +7,8 @@
 
 The UK recently legislated to become net-zero by 2050, by which time the aim is to end the country's contribution to global warming (Masoud Sajjadian, 2023). According to the department for transport, around 24% of the UKs total greenhouse gas emissions come from transport, with 99 MtCO2e (million tonnes of carbon dioxide equivalent) coming from private transport (Department of Transport, 2022). A reduction in this figure would therefore play a major role in reaching the 2050 target of becoming the first major economy to reach net-zero.
 
+For this to be achieved, local land-use planning policy is central. In 1995 the UK government enacted the air quality management framework, in which the effects of air pollutants would drive changes in central governmnet policy frameworks. In it they suggest that local authorities might implement changes that should meet the objectives of improved air quality. Land-use planning effects often run over longer timescales of about 10 years, which are consistent with the timescales for measuring the changes suggested in the AQM (Beattie et al., 2001). By combining the land-use plans with considerations of air quality improvements simultaneously, there is scope to both improve the physical retail environment and the air quality in them.      
+
 The Consumer Data Research Centre (CDRC) provides Access to Healthy Assets and Hazards (AHAH) data, which contains a multi-domensional index of neiighbourhood health, and includes data on air quality amongst other measures. Air quality data is based on the amount of particulate matter in the air of a size that is 10µm (10 microns) or less (pm10).
 
 CDRC also provides data on retail centres, so by looking at the air quality of these, it could provide a starting point in the drive to reach net-zero, and to clean up environments that all of us have a relationship of some kind with, such as those in which we shop.
@@ -71,7 +73,10 @@ To run the code, please activate the environment called “spatial_env”
 
 ## References
 
+Beattie, C.I., Longhurst, J.W.S. and Wood, N.K. 2001. Air quality management: evolution of policy and practice in the UK as exemplifed by the experience of English local government. Atmospheric Environment.
+
 Department of Transport 2022. Transport and environment statistics 2022. GOV.UK. [Online]. [Accessed 22 November 2023]. Available from: https://www.gov.uk/government/statistics/transport-and-environment-statistics-2022/transport-and-environment-statistics-2022.
 
 Masoud Sajjadian, S. 2023. A critique on the UK’s net zero strategy. Sustainable Energy Technologies and Assessments. 56, p.103003.
+
 
