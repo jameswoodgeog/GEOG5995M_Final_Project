@@ -5,7 +5,7 @@
 
 ## Context
 
-The UK recently legislated to become net-zero by 2050, by which time the aim is to end the country's contribution to global warming (Masoud Sajjadian, 2023). According to the department for transport, around 24% of the UKs total greenhouse gas emissions come from transport, with 99 MtCO2e (million tonnes of carbon dioxide equivalent) coming from private transport (CITE). A reduction in this figure would therefore play a major role in reaching the 2050 target of becoming the first major economy to reach net-zero.
+The UK recently legislated to become net-zero by 2050, by which time the aim is to end the country's contribution to global warming (Masoud Sajjadian, 2023). According to the department for transport, around 24% of the UKs total greenhouse gas emissions come from transport, with 99 MtCO2e (million tonnes of carbon dioxide equivalent) coming from private transport (Department of Transport, 2022). A reduction in this figure would therefore play a major role in reaching the 2050 target of becoming the first major economy to reach net-zero.
 
 The Consumer Data Research Centre (CDRC) provides Access to Healthy Assets and Hazards (AHAH) data, which contains a multi-domensional index of neiighbourhood health, and includes data on air quality amongst other measures. Air quality data is based on the amount of particulate matter in the air of a size that is 10µm (10 microns) or less (pm10).
 
@@ -68,3 +68,10 @@ So that the code can be run, the following packages will be required. Some of wh
 •	contextily
 
 To run the code, please activate the environment called “spatial_env”
+
+## References
+
+Department of Transport 2022. Transport and environment statistics 2022. GOV.UK. [Online]. [Accessed 22 November 2023]. Available from: https://www.gov.uk/government/statistics/transport-and-environment-statistics-2022/transport-and-environment-statistics-2022.
+
+Masoud Sajjadian, S. 2023. A critique on the UK’s net zero strategy. Sustainable Energy Technologies and Assessments. 56, p.103003.
+
