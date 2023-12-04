@@ -1,6 +1,8 @@
-# GEOG5995M_Final_Project
+# Module     : GEOG5995M | Programming for Social Science
+## Final Project - 70% Assignment
 ### Student id : 201578497
-### Module     : Programming for Social Science - Final Project - 70% Assignment
+
+# Is there an association between the location of retail centres and the amount of air pollution shoppers are exposed to?
 
 
 ## Context
